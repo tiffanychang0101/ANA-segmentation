@@ -21,3 +21,6 @@ Fine speckled型原圖
 ![5](https://github.com/tiffanychang0101/ANA-segmentation/blob/master/result/Fine%20speckled(1).png)
 Fine speckled型辨識結果
 ![6](https://github.com/tiffanychang0101/ANA-segmentation/blob/master/result/fine%20speckled(2).png)
+
+## 引用與參考文獻
+https://github.com/matterport/Mask_RCNN
